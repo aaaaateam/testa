@@ -1,10 +1,1 @@
-fwefwefwefwefewfwefwaaaaaadevelop
-<<<<<<< HEAD
-<<<<<<< HEAD
-111111
-=======
-33333
->>>>>>> 45f71fde30a5d5bce876987a8482a4b1da6a5c8c
-=======
-33333
->>>>>>> 45f71fde30a5d5bce876987a8482a4b1da6a5c8c
+111111111111111111
